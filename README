@@ -1,0 +1,12 @@
+This folder contains supporting material for the
+https://yesik.it/EP11 video.
+
+Most files are dummy files with no content, except:
+- this README file
+- the PDF files which are from Wikipedia and the Wiktionary
+  (credits in respective the file)
+- watch.sh which is a bash script to monitor changes in the current directory
+  (you can see this script in action in the video)
+
+The 'watch.sh' script is provided under the terms of the MIT License.
+Wikipedia and the Wiktionary content provided under the Creative Common Share Alike 3.0 License.
